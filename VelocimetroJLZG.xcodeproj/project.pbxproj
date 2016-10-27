@@ -27,6 +27,7 @@
 		8133F5541DC28ECD0022AAF2 /* VelocimetroJLZG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = VelocimetroJLZG.app; path = "/Users/artgs/Desktop/VelocimetroJLZG/build/Debug-iphoneos/VelocimetroJLZG.app"; sourceTree = "<absolute>"; };
 		8133F5681DC28ECE0022AAF2 /* VelocimetroJLZGTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = VelocimetroJLZGTests.xctest; path = "/Users/artgs/Desktop/VelocimetroJLZG/build/Debug-iphoneos/VelocimetroJLZGTests.xctest"; sourceTree = "<absolute>"; };
 		8133F5731DC28ECF0022AAF2 /* VelocimetroJLZGUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = VelocimetroJLZGUITests.xctest; path = "/Users/artgs/Desktop/VelocimetroJLZG/build/Debug-iphoneos/VelocimetroJLZGUITests.xctest"; sourceTree = "<absolute>"; };
+		8133F5851DC28F6A0022AAF2 /* MiVelocimetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MiVelocimetro.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		8133F54B1DC28ECD0022AAF2 = {
 			isa = PBXGroup;
 			children = (
+				8133F5851DC28F6A0022AAF2 /* MiVelocimetro.playground */,
 			);
 			sourceTree = "<group>";
 		};
