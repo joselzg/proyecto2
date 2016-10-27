@@ -6,16 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		8133F5581DC28ECD0022AAF2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8133F5571DC28ECD0022AAF2 /* AppDelegate.swift */; };
-		8133F55A1DC28ECD0022AAF2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8133F5591DC28ECD0022AAF2 /* ViewController.swift */; };
-		8133F55D1DC28ECE0022AAF2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8133F55B1DC28ECE0022AAF2 /* Main.storyboard */; };
-		8133F55F1DC28ECE0022AAF2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8133F55E1DC28ECE0022AAF2 /* Assets.xcassets */; };
-		8133F5621DC28ECE0022AAF2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8133F5601DC28ECE0022AAF2 /* LaunchScreen.storyboard */; };
-		8133F56D1DC28ECE0022AAF2 /* VelocimetroJLZGTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8133F56C1DC28ECE0022AAF2 /* VelocimetroJLZGTests.swift */; };
-		8133F5781DC28ED00022AAF2 /* VelocimetroJLZGUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8133F5771DC28ED00022AAF2 /* VelocimetroJLZGUITests.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		8133F5691DC28ECE0022AAF2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -34,19 +24,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8133F5541DC28ECD0022AAF2 /* VelocimetroJLZG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VelocimetroJLZG.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		8133F5571DC28ECD0022AAF2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		8133F5591DC28ECD0022AAF2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		8133F55C1DC28ECE0022AAF2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8133F55E1DC28ECE0022AAF2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		8133F5611DC28ECE0022AAF2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		8133F5631DC28ECE0022AAF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8133F5681DC28ECE0022AAF2 /* VelocimetroJLZGTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VelocimetroJLZGTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		8133F56C1DC28ECE0022AAF2 /* VelocimetroJLZGTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VelocimetroJLZGTests.swift; sourceTree = "<group>"; };
-		8133F56E1DC28ECF0022AAF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8133F5731DC28ECF0022AAF2 /* VelocimetroJLZGUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VelocimetroJLZGUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		8133F5771DC28ED00022AAF2 /* VelocimetroJLZGUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VelocimetroJLZGUITests.swift; sourceTree = "<group>"; };
-		8133F5791DC28ED00022AAF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8133F5541DC28ECD0022AAF2 /* VelocimetroJLZG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = VelocimetroJLZG.app; path = "/Users/artgs/Desktop/VelocimetroJLZG/build/Debug-iphoneos/VelocimetroJLZG.app"; sourceTree = "<absolute>"; };
+		8133F5681DC28ECE0022AAF2 /* VelocimetroJLZGTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = VelocimetroJLZGTests.xctest; path = "/Users/artgs/Desktop/VelocimetroJLZG/build/Debug-iphoneos/VelocimetroJLZGTests.xctest"; sourceTree = "<absolute>"; };
+		8133F5731DC28ECF0022AAF2 /* VelocimetroJLZGUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = VelocimetroJLZGUITests.xctest; path = "/Users/artgs/Desktop/VelocimetroJLZG/build/Debug-iphoneos/VelocimetroJLZGUITests.xctest"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,52 +57,7 @@
 		8133F54B1DC28ECD0022AAF2 = {
 			isa = PBXGroup;
 			children = (
-				8133F5561DC28ECD0022AAF2 /* VelocimetroJLZG */,
-				8133F56B1DC28ECE0022AAF2 /* VelocimetroJLZGTests */,
-				8133F5761DC28ECF0022AAF2 /* VelocimetroJLZGUITests */,
-				8133F5551DC28ECD0022AAF2 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		8133F5551DC28ECD0022AAF2 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				8133F5541DC28ECD0022AAF2 /* VelocimetroJLZG.app */,
-				8133F5681DC28ECE0022AAF2 /* VelocimetroJLZGTests.xctest */,
-				8133F5731DC28ECF0022AAF2 /* VelocimetroJLZGUITests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		8133F5561DC28ECD0022AAF2 /* VelocimetroJLZG */ = {
-			isa = PBXGroup;
-			children = (
-				8133F5571DC28ECD0022AAF2 /* AppDelegate.swift */,
-				8133F5591DC28ECD0022AAF2 /* ViewController.swift */,
-				8133F55B1DC28ECE0022AAF2 /* Main.storyboard */,
-				8133F55E1DC28ECE0022AAF2 /* Assets.xcassets */,
-				8133F5601DC28ECE0022AAF2 /* LaunchScreen.storyboard */,
-				8133F5631DC28ECE0022AAF2 /* Info.plist */,
-			);
-			path = VelocimetroJLZG;
-			sourceTree = "<group>";
-		};
-		8133F56B1DC28ECE0022AAF2 /* VelocimetroJLZGTests */ = {
-			isa = PBXGroup;
-			children = (
-				8133F56C1DC28ECE0022AAF2 /* VelocimetroJLZGTests.swift */,
-				8133F56E1DC28ECF0022AAF2 /* Info.plist */,
-			);
-			path = VelocimetroJLZGTests;
-			sourceTree = "<group>";
-		};
-		8133F5761DC28ECF0022AAF2 /* VelocimetroJLZGUITests */ = {
-			isa = PBXGroup;
-			children = (
-				8133F5771DC28ED00022AAF2 /* VelocimetroJLZGUITests.swift */,
-				8133F5791DC28ED00022AAF2 /* Info.plist */,
-			);
-			path = VelocimetroJLZGUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -213,7 +148,7 @@
 				Base,
 			);
 			mainGroup = 8133F54B1DC28ECD0022AAF2;
-			productRefGroup = 8133F5551DC28ECD0022AAF2 /* Products */;
+			productRefGroup = 8133F54B1DC28ECD0022AAF2;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -229,9 +164,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8133F5621DC28ECE0022AAF2 /* LaunchScreen.storyboard in Resources */,
-				8133F55F1DC28ECE0022AAF2 /* Assets.xcassets in Resources */,
-				8133F55D1DC28ECE0022AAF2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,8 +188,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8133F55A1DC28ECD0022AAF2 /* ViewController.swift in Sources */,
-				8133F5581DC28ECD0022AAF2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,7 +195,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8133F56D1DC28ECE0022AAF2 /* VelocimetroJLZGTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,7 +202,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8133F5781DC28ED00022AAF2 /* VelocimetroJLZGUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,25 +219,6 @@
 			targetProxy = 8133F5741DC28ECF0022AAF2 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		8133F55B1DC28ECE0022AAF2 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				8133F55C1DC28ECE0022AAF2 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		8133F5601DC28ECE0022AAF2 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				8133F5611DC28ECE0022AAF2 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		8133F57A1DC28ED00022AAF2 /* Debug */ = {
